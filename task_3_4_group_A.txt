@@ -1,0 +1,5 @@
+4
+Ivanov 17,7
+Komarov 17,4
+Doigrales 17,6
+Muhov 17,5

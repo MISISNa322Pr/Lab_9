@@ -1,0 +1,5 @@
+Final table:
+Place	Name		Average Mark
+1	BIVT-22-19	4,2
+2	BIVT-22-18	4
+3	BIVT-22-17	3,6

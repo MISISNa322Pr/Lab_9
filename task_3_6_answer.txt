@@ -1,0 +1,11 @@
+The most popular answers to the first question:
+1. dog - 33%
+2. fox - 33%
+3. sakura - 33%
+The most popular answers to the second question:
+1. horse - 60%
+2. dog - 20%
+3. fox - 20%
+The most popular answers to the third question:
+1. sakura - 67%
+2. horse - 33%

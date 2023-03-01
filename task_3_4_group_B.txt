@@ -1,0 +1,6 @@
+5
+Glebo 18,1
+Shoro 17,4
+Azaev 17,6
+Zizov 17,2
+Vovchenko 17,7

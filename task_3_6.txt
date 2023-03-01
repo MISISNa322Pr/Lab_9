@@ -1,0 +1,7 @@
+- - sakura
+dog - -
+fox dog horse
+sakura horse sakura
+fox horse sakura
+sakura fox horse
+dog horse sakura

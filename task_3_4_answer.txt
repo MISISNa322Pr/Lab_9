@@ -1,0 +1,24 @@
+Group A results:
+1. Komarov - 17,4
+2. Muhov - 17,5
+3. Doigrales - 17,6
+4. Ivanov - 17,7
+ 
+Group B results:
+1. Zizov - 17,2
+2. Shoro - 17,4
+3. Azaev - 17,6
+4. Vovchenko - 17,7
+5. Glebo - 18,1
+ 
+Group A+B results:
+1. Zizov - 17,2
+2. Shoro - 17,4
+3. Komarov - 17,4
+4. Muhov - 17,5
+5. Azaev - 17,6
+6. Doigrales - 17,6
+7. Vovchenko - 17,7
+8. Ivanov - 17,7
+9. Glebo - 18,1
+ 
